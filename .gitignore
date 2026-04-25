@@ -1,0 +1,47 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# =========================
+# IDE / OS junk
+# =========================
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Unity cache artifacts
+# =========================
+Conveyor workshop/Assets/AssetStoreTools*
+Conveyor workshop/Assets/**/[Ll]ightmapSnapshot*.asset
+
+# =========================
+# Unity package/template demo content (not used by the game)
+# =========================
+Conveyor workshop/Assets/TextMesh Pro/Examples & Extras/
+Conveyor workshop/Assets/TutorialInfo/
+Conveyor workshop/Assets/Readme.asset
+Conveyor workshop/Assets/Readme.asset.meta
